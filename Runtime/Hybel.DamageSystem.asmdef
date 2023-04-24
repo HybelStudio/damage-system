@@ -1,0 +1,14 @@
+{
+    "name": "Hybel.DamageSystem",
+    "rootNamespace": "Hybel.Damage",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
