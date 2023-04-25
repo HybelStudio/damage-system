@@ -1,5 +1,5 @@
 {
-    "name": "com.hybelstudio.damage.system",
+    "name": "com.hybelstudio.damage-system",
     "displayName": "Damage System",
     "version": "1.0.0",
     "description": "A damage system to use with Unity which features damage types out of the box. This package doesn't track health for you, you'll have to integrate with a different health system.",
